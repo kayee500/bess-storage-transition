@@ -1,5 +1,7 @@
 # Financing the storage transition: battery stranding risk in Germany and Sweden
 
+[![DOI](https://zenodo.org/badge/1421678225.svg)](https://doi.org/10.5281/zenodo.23410601)
+
 Code, processed results and the document register for the article:
 
 > John, K. S. (2026). *Financing the storage transition: Reserve-market saturation, policy risk
@@ -34,6 +36,14 @@ The code reproduces every number, table and figure in the article from public ma
    saturation variant with a stronger downward drift.
 6. **Out-of-sample comparison.** The same dispatch on 2025 data, compared with the scenarios
    and the break-even levels.
+
+## How to cite the code
+
+> John, K. S. (2026). *Code and results for: Financing the storage transition* (Version v1.0.0)
+> [Software]. Zenodo. https://doi.org/10.5281/zenodo.23410602
+
+The DOI above refers to the version submitted with the article. The badge at the top
+(https://doi.org/10.5281/zenodo.23410601) always points to the latest version.
 
 ## Quick start
 
