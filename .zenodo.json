@@ -1,0 +1,15 @@
+{
+  "title": "Code and results for: Financing the storage transition: Reserve-market saturation, policy risk and the stranding of battery investments in Germany and Sweden",
+  "upload_type": "software",
+  "description": "Python code, processed results, figures and the document register that reproduce every number, table and figure in the article by K.S. John (2026), submitted to the Journal of Energy Storage. The model co-optimises day-ahead arbitrage and reserve capacity (FCR, FCR-N, FCR-D, aFRR) for battery storage in Germany and Sweden on official market data for 2020 to 2025 and evaluates project finance, stress scenarios and a Monte Carlo simulation. Raw market data are not included; data/README.md explains how to download them.",
+  "creators": [
+    {
+      "name": "John, Kayode Solomon",
+      "affiliation": "Umeå University",
+      "orcid": "0009-0002-6413-8554"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["battery energy storage", "frequency containment reserve", "revenue stacking", "stranded assets", "investment risk", "Germany", "Sweden"],
+  "version": "v1.0.0"
+}
