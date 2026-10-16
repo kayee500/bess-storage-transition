@@ -1,0 +1,5 @@
+country,ptype,breakeven_reserve_level,breakeven_reserve_revenue
+DE,Centralised,0.46,0.37152950901843024
+SE,Centralised,0.24,0.22946890603592687
+DE,Decentralised,0.88,0.8626235533013199
+SE,Decentralised,0.4,0.39189576771118717
